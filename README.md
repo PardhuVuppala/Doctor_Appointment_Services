@@ -33,6 +33,8 @@ In backend you need to install this modules
     
 WE HAVE DONE THIS PROJECT TO REDUSE THE WASTAGE OF TIME TO BOOK APPOINTMENT IN THE STANDING IN A LINE,IN THIS USER CAN BOOK THE APPOINTMENT IN ANY PLACE
 
-Website Live Link : https://doctorappointmentservices.netlify.app/  (or)   https://doc-appointment-services.onrender.com/
+Website Live Link : https://doctorappointmentservices.netlify.app/
+          (or) 
+https://doc-appointment-services.onrender.com/
                     
     
